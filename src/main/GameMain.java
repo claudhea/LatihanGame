@@ -5,6 +5,8 @@
  */
 package main;
 
+import view.GameFrame;
+
 /**
  *
  * @author basisb21db
